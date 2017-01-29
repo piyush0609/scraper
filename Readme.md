@@ -2,8 +2,8 @@ How to use the crawler:
 cd website_dir
 For eg.
 cd brightnest
-
-scrapy crawl brightnest.com
+Run this command
+scrapy crawl brightnest_crawler
 
 How to use dynamic IP
 
