@@ -13,6 +13,6 @@ How to use dynamic IP
 
 list.txt file contains the proxy list
 
-In settings.py uncomment the DOWNLOADER_MIDDLEWARES
+In settings.py inside the crawler dir(brighnest/wikihowto) uncomment the DOWNLOADER_MIDDLEWARES
 
 Please use a working proxies for the crawler to work
